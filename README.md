@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi I am John 👋, 
 
-<!--
-**JohnSongNow/JohnSongNow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Youtube Badge](https://img.shields.io/badge/-@JohnSong-FF0000?style=flat&logo=youtube&logoColor=white&link=https://youtube.com/c/JohnSong/)](https://youtube.com/c/JohnSong)
+[![Twitter Badge](https://img.shields.io/badge/-@JohnSogNow-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JohnSongNow)](https://twitter.com/JohnSongNow)
+[![Instagram Badge](https://img.shields.io/badge/-@JohnSongNow-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/JohnSongNow)
+[![Website Badge](https://img.shields.io/badge/-johnsong.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://johnsong.me)](https://johnsong.me)
 
-Here are some ideas to get you started:
+## 🧐 About
+I'm John, I graduated from the University of Toronto studying computer science. I am a software developer, game developer hobbyist, and youtube creator! I have a big interest in interactive media and programming, and I love to make content through creating things that entertains and brings value to people!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Some Past Projects/Endvaours 🌳
+- 🖽 [Group the Tiles](https://github.com/Ctrlfyp/group-the-tiles) - A Simple 2D Puzzle Game!
+- 🏓 [Ping](https://johnsongnow.itch.io/ping) - A Unity Ping Multiplayer Test!
+- ☄️ [Detritus](https://johnsongnow.itch.io/detritus) - A Faithless Asteroids Recreation!
+- 📽️ [Piro](https://github.com/JohnSongNow/Piro) - A Unity Tool Used to Capture/Create Cutscenes for Youtube!
+- 📫 [Youtube Vidoe Source Code](https://github.com/JohnSongNow/youtube-videos) - Repo For My Past Youtube Videos!
+
+# Current Projects/Endvaours 🚧
+- 📫 A 2D Platformer Game!
+- 📹 Gaming Related Video Every 3 weeks Found [Here](https://youtube.com/c/JohnSong)!
+- 🇯🇵 Reaching tJLPT N3 Proficiency!
+---
