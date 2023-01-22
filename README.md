@@ -8,14 +8,14 @@
 ## 🧐 About
 I'm John, I graduated from the University of Toronto studying computer science. I am a software developer, game developer hobbyist, and youtube creator! I have a big interest in interactive media and programming, and I love to make content through creating things that entertains and brings value to people!
 
-# Some Past Projects/Endvaours 🌳
+# Some Past Projects/Endeavours 🌳
 - 🖽 [Group the Tiles](https://github.com/Ctrlfyp/group-the-tiles) - A Simple 2D Puzzle Game!
 - 🏓 [Ping](https://johnsongnow.itch.io/ping) - A Unity Ping Multiplayer Test!
 - ☄️ [Detritus](https://johnsongnow.itch.io/detritus) - A Faithless Asteroids Recreation!
 - 📽️ [Piro](https://github.com/JohnSongNow/Piro) - A Unity Tool Used to Capture/Create Cutscenes for Youtube!
 - 📫 [Youtube Vidoe Source Code](https://github.com/JohnSongNow/youtube-videos) - Repo For My Past Youtube Videos!
 
-# Current Projects/Endvaours 🚧
+# Current Projects/Endeavours 🚧
 - 📫 A 2D Platformer Game!
 - 📹 Gaming Related Video Every 3 weeks Found [Here](https://youtube.com/c/JohnSong)!
 - 🇯🇵 Reaching tJLPT N3 Proficiency!
