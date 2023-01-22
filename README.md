@@ -18,5 +18,5 @@ I'm John, I graduated from the University of Toronto studying computer science. 
 # Current Projects/Endeavours 🚧
 - 📫 A 2D Platformer Game!
 - 📹 Gaming Related Video Every 3 weeks Found [Here](https://youtube.com/c/JohnSong)!
-- 🇯🇵 Reaching tJLPT N3 Proficiency!
+- 🇯🇵 Reaching JLPT N3 Proficiency!
 ---
