@@ -1,6 +1,7 @@
 # Hi I am John 👋, 
 
 [![Youtube Badge](https://img.shields.io/badge/-@JohnSong-FF0000?style=flat&logo=youtube&logoColor=white&link=https://youtube.com/c/JohnSong/)](https://youtube.com/c/JohnSong)
+[![Twitch Badge](https://img.shields.io/badge/-@JohnSong-6441a5?style=flat&logo=twitch&logoColor=white&link=https://twitch.tv/JohnSongNow/)]([https://youtube.com/c/JohnSong](https://twitch.tv/JohnSongNow))
 [![Twitter Badge](https://img.shields.io/badge/-@JohnSogNow-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JohnSongNow)](https://twitter.com/JohnSongNow)
 [![Instagram Badge](https://img.shields.io/badge/-@JohnSongNow-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/JohnSongNow)
 [![Website Badge](https://img.shields.io/badge/-johnsong.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://johnsong.me)](https://johnsong.me)
