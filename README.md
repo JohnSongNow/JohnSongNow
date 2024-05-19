@@ -17,7 +17,6 @@ I'm John, I graduated from the University of Toronto studying computer science. 
 - 📫 [Youtube Vidoe Source Code](https://github.com/JohnSongNow/youtube-videos) - Repo For My Past Youtube Videos!
 
 # Current Projects/Endeavours 🚧
-- 📫 A 2D Platformer Game!
-- 📹 Gaming Related Video Every 3 weeks Found [Here](https://youtube.com/c/JohnSong)!
-- 🇯🇵 Reaching JLPT N3 Proficiency!
+- 📫 A new VN Platformer Game!
+- 📹 Gaming Related Video Every Month Found [Here](https://youtube.com/c/JohnSong)!
 ---
