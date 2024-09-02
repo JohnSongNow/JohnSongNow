@@ -14,7 +14,7 @@ I'm John, I graduated from the University of Toronto studying computer science. 
 - 🏓 [Ping](https://johnsongnow.itch.io/ping) - A Unity Ping Multiplayer Test!
 - ☄️ [Detritus](https://johnsongnow.itch.io/detritus) - A Faithless Asteroids Recreation!
 - 📽️ [Piro](https://github.com/JohnSongNow/Piro) - A Unity Tool Used to Capture/Create Cutscenes for Youtube!
-- 📫 [Youtube Vidoe Source Code](https://github.com/JohnSongNow/youtube-videos) - Repo For My Past Youtube Videos!
+- 📫 [Youtube Video Source Code](https://github.com/JohnSongNow/youtube-videos) - Repo For My Past Youtube Videos!
 
 # Current Projects/Endeavours 🚧
 - 📫 A new VN Platformer Game!
